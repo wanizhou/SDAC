@@ -7,6 +7,7 @@ To install the required packages, please run the following command:
 pip install -r requirements.txt
 ```
 To have a Pytorch version specific to your CUDA, [install](https://pytorch.org/) your version before running the above command.
+Input test files:https://drive.google.com/drive/folders/1Dg_9pg7K78_wU9JCG1_58KajkIdOU5mT?usp=drive_link
 
 # 1.Data
 We have prepared the original retrieval documents of the Natural Questions and TriviaQA datasets in the inputs folder, 
